@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor6489&label=Profile%20views&color=0e75b6&style=flat" alt="victor6489" /> </p>
 
-- 🔭 I’m currently working on **curriculum projects**
+- 🔭 I’m currently working on **Curriculum Projects**
 
 - 🌱 I’m currently learning **Html5, CSS, Javascript e React**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/victor-damaceno-424366146/](https://www.linkedin.com/in/victor-damaceno-424366146/)
 
-- ⚡ Facts about me **funny, respectful and responsible**
+- ⚡ Facts about me ** I'm funny, respectful and responsible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
